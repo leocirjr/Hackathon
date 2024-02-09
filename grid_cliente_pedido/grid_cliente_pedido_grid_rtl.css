@@ -1,0 +1,20 @@
+.css_id_cliente_pedido_label, .css_id_cliente_pedido_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_cliente_pedido_grid_line, .css_id_cliente_pedido_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cliente_label, .css_cliente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_grid_line, .css_cliente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_produtor_label, .css_produtor_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_produtor_grid_line, .css_produtor_grid_line:hover {vertical-align: top;text-align: right;}
+.css_produto_label, .css_produto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_produto_grid_line, .css_produto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_categoria_label, .css_categoria_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_categoria_grid_line, .css_categoria_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tipo_label, .css_tipo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line, .css_tipo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_quantidade_label, .css_quantidade_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_quantidade_grid_line, .css_quantidade_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prazo_dias_envio_label, .css_prazo_dias_envio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_prazo_dias_envio_grid_line, .css_prazo_dias_envio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_preco_label, .css_preco_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_preco_grid_line, .css_preco_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_label, .css_total_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_grid_line, .css_total_grid_line:hover {vertical-align: top;text-align: right;}
